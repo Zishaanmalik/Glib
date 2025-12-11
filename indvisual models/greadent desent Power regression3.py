@@ -163,4 +163,5 @@ def PowerReg(x, y, iter=100, lern=0.0000001, c=0, plot='False',track=True):
 x = [[i*1.111, i, i*1.03, i*1.15, i*0.6, i*1.09, i*1.1] for i in range(1,50)]  # 4 features
 y = [i**2 for i in range(1,50)]
 
-PowerReg(x, y, iter=100, plot='*')
+PowerReg(x, y, iter=100, plot=True)
+

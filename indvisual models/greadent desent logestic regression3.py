@@ -164,4 +164,4 @@ def LogesticReg(x, y, iter=100, lern=0.00005, lamda=2, c=-1, plot='False', track
 x = [[i-1, i-2, i+2, i-6,i-8,i,i+9] for i in range(500)]  # 4 features
 y = [0 if i < 100 else 1 for i in range(500)]
 
-LogesticReg(x, y, iter=99, plot='*')
+LogesticReg(x, y, iter=99, plot=True)

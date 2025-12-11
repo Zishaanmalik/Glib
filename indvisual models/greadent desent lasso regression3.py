@@ -162,4 +162,4 @@ def Lasso(x, y, iter=100, lern=0.00001,lamda=0.00001, c=0, plot='False',track=Tr
 x = [[i*1.5, i-1, i+2, i-2,i-6,i,i+9] for i in range(50)]  # 4 features
 y = [i for i in range(50)]
 
-Lasso(x, y, iter=100, plot=True)
+Lasso(x, y, iter=100, plot='*')
