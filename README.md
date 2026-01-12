@@ -3,6 +3,10 @@ A focused documentation file for **glib.py** -- a compact library implementing s
 
 https://github.com/Zishaanmalik/Glib/issues/1 `Preview`
 
+<video width="600" autoplay loop muted controls>
+  <source src="preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 TABLE OF CONTENTS
