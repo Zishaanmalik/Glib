@@ -1,8 +1,7 @@
 # Glib -- Regression & Classification Library (NumPy + Matplotlib)
 A focused documentation file for **glib.py** -- a compact library implementing several supervised learning classes and dynamic plotting helpers using `numpy` and `matplotlib`.
 
-https://github.com/user-attachments/assets/9f9ff367-c77a-4a73-90f5-fd4ae9fcc2c4 
-https://github.com/Zishaanmalik/Glib/issues/1
+https://github.com/Zishaanmalik/Glib/issues/1 `Preview`
 
 ---
 
