@@ -2,8 +2,9 @@
 A focused documentation file for **glib.py** -- a compact library implementing several supervised learning classes and dynamic plotting helpers using `numpy` and `matplotlib`.
 
 **Preview**
-preview.gif
 
+preview.gif
+Zishaanmalik
 
 ---
 
